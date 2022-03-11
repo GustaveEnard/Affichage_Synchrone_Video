@@ -1,0 +1,2 @@
+﻿C:\Users\Gustave\Desktop\Master_Final\TFTP_clientV2\TFTP_clientV2.vcxproj(63,5): warning MSB4011: "C:\Users\Gustave\Desktop\wxWidgets-3.1.4\wxwidgets.props" ne peut pas être réimporté car il a déjà été importé à "C:\Users\Gustave\Desktop\Master_Final\TFTP_clientV2\TFTP_clientV2.vcxproj (62,5)". Il s'agit probablement d'une erreur de création de build. Cette importation est ignorée. 
+  TFTP_clientV2.vcxproj -> C:\Users\Gustave\Desktop\Master_Final\Debug\TFTP_clientV2.exe

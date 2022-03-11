@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<ConfigReseau>
+    <Config date="Jeudi 1 Avril 2021 9:28:42">
+        <user ip="172.31.71.105" hostname="A207-01" username="cguais" os="Windows 32-bit" nbvideo="2*3" />
+    </Config>
+    <Config date="Jeudi 1 Avril 2021 9:41:32">
+        <user ip="172.31.71.105" hostname="A207-01" username="cguais" os="Windows 32-bit" nbvideo="2*3" />
+    </Config>
+    <Config date="Jeudi 1 Avril 2021 9:41:51">
+        <user ip="127.0.0.1" hostname="A207-02" username="genard" os="Windows 32-bit" nbvideo="8" />
+    </Config>
+    <Config date="Lundi 5 Avril 2021 12:0:6">
+        <user ip="127.0.0.1" hostname="DESKTOP-1EO7CVH" username="Gustave" os="Windows 32-bit" nbvideo="8" />
+    </Config>
+    <Config date="Lundi 5 Avril 2021 12:6:14">
+        <user ip="192.168.1.26" hostname="DESKTOP-1EO7CVH" username="Gustave" os="Windows 32-bit" nbvideo="8" />
+    </Config>
+</ConfigReseau>

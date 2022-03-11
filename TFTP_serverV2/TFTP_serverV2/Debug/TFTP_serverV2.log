@@ -1,0 +1,6 @@
+﻿  tftp_packet.cpp
+  tftp_server.cpp
+C:\Users\Gustave\Desktop\TFTP_serverV2\TFTP_serverV2\tftp_server.cpp(543,94): warning C4244: 'argument' : conversion de 'std::streamsize' en 'int', perte possible de données
+  TFTP_serverV2.cpp
+  Génération de code en cours...
+  TFTP_serverV2.vcxproj -> C:\Users\Gustave\Desktop\TFTP_serverV2\Debug\TFTP_serverV2.exe

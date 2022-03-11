@@ -21,7 +21,7 @@
 
 
 #define TAILLE_BUFFER 1024
-#define CHEMIN_PHYSIQUE "C:\\Users\\Gustave\\Desktop\\ConfigReseau.xml"  // Chemin physique où ce situt le fichier de configutation ex : "C:\\Users\\Gustave\\Desktop\\ConfigReseau.xml"
+#define CHEMIN_PHYSIQUE "ConfigReseau.xml"  // Chemin physique où ce situt le fichier de configutation ex : "C:\\Users\\Gustave\\Desktop\\ConfigReseau.xml"
 #define TIMEOUT 1
 
 class User {
